@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context="codepath.apps.myprojects.simpletodo.MainActivity">
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/mlEditItem"
+        android:layout_weight="0.29"
+        android:layout_below="@+id/etEditLabel"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="205dp"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:id="@+id/btnEditItem"
+        android:focusable = "false"
+        android:onClick="onSave"
+        android:focusableInTouchMode = "false"
+        android:layout_below="@+id/mlEditItem"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/etEditLabel"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/mlEditItem"
+        android:layout_alignEnd="@+id/mlEditItem"
+        android:text="Edit Item Below:" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+        android:id="@+id/btnDelItem"
+        android:layout_below="@+id/mlEditItem"
+        android:onClick="onDelete"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:focusable = "false"
+        android:focusableInTouchMode = "false"/>
+
+</RelativeLayout>

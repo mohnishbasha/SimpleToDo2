@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/exploded-aar/de.keyboardsurfer.android.widget/crouton/1.8.5/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b81c788c5f175f94ddaac2f65e5d1726371e0963">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/pre-dexed/debug/classes-c40839ed09877b333c4b175110f13578459953c7.jar" />
+    </item>
+    <item
+        jar="/Users/i835811/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-cc2b0a465ca3d43ba7a1c016c84fb25abe6e6769.jar" />
+    </item>
+    <item
+        jar="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/exploded-aar/net.the4thdimension/android-utils/2.0.4/libs/aws-android-sdk-1.4.6-core.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9fc4cfb0d252ed540faf64ac3f5d8281c8858417">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/pre-dexed/debug/aws-android-sdk-1.4.6-core-c9bc8b68dd470ba009a82fca61e72ef8385d3f1f.jar" />
+    </item>
+    <item
+        jar="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/exploded-aar/net.the4thdimension/android-utils/2.0.4/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b93a843f308fe9545f83367461e31c23a37820f6">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/pre-dexed/debug/classes-82d13a330e431cfa153d41f8b45239dc225da6a2.jar" />
+    </item>
+    <item
+        jar="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/pre-dexed/debug/commons-io-2.4-707555996b926494da141f24ad97051432ee9cea.jar" />
+    </item>
+    <item
+        jar="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-de6f28cb348477ad1ebeb9c3e2476023a43c0fce.jar" />
+    </item>
+    <item
+        jar="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/pre-dexed/debug/classes-bd0dd327df6c681db8c1d417cc3adb9bfc215f3a.jar" />
+    </item>
+    <item
+        jar="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/exploded-aar/net.the4thdimension/android-utils/2.0.4/libs/aws-android-sdk-1.4.6-s3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="21685b7ea711a2665c80fe79d900752676952ce4">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/pre-dexed/debug/aws-android-sdk-1.4.6-s3-b5361d9a1d6ba879836ac84b411173b765e5212b.jar" />
+    </item>
+    <item
+        jar="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/pre-dexed/debug/classes-9b8808814d5ced550171cdbb0a0c1eb743da578a.jar" />
+    </item>
+    <item
+        jar="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/exploded-aar/net.the4thdimension/android-utils/2.0.4/libs/libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="/Users/i835811/Documents/workspace/Codepath/SimpleTodo/app/build/intermediates/pre-dexed/debug/libGoogleAnalyticsServices-c856e5995dd1a237a5f198cd76c89625918808a3.jar" />
+    </item>
+
+</items>

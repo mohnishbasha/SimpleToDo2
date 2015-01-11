@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="android-utils-2.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/net.the4thdimension/android-utils/2.0.4/libs/aws-android-sdk-1.4.6-core.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/net.the4thdimension/android-utils/2.0.4/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/net.the4thdimension/android-utils/2.0.4/libs/libGoogleAnalyticsServices.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/net.the4thdimension/android-utils/2.0.4/libs/aws-android-sdk-1.4.6-s3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/net.the4thdimension/android-utils/2.0.4/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
